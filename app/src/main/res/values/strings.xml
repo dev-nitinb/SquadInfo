@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Squad Info</string>
+    <string name="bottom_nav_summary">Summary</string>
+    <string name="bottom_nav_scorecard">Scorecard</string>
+    <string name="bottom_nav_commentary">Commentary</string>
+    <string name="bottom_nav_match_info">Match Info</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
