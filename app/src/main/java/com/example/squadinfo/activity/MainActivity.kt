@@ -6,6 +6,7 @@ import android.view.View
 import android.view.WindowManager
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.AppCompatImageView
 import androidx.appcompat.widget.AppCompatTextView
 import androidx.appcompat.widget.Toolbar
 import com.example.squadinfo.R
@@ -26,6 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var toolbar: Toolbar
     private lateinit var toolbarTitle: AppCompatTextView
+    private lateinit var ivBack: AppCompatImageView
     private lateinit var bottomNavigation: BottomNavigationView
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -40,6 +42,7 @@ class MainActivity : AppCompatActivity() {
         bottomNavigation = findViewById(R.id.bottomNavigation)
         toolbar = findViewById(R.id.toolbar)
         toolbarTitle = toolbar.findViewById(R.id.toolbarTitle)
+        ivBack=toolbar.findViewById(R.id.ivBack)
 
         setSupportActionBar(toolbar)
 
@@ -69,6 +72,7 @@ class MainActivity : AppCompatActivity() {
             }
             true
         }
+        ivBack.setOnClickListener { onBackPressed() }
     }
 
     fun loadMatchData() {

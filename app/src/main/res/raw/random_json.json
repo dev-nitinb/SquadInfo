@@ -1,0 +1,1056 @@
+{
+  "Matchdetail": {
+    "Team_Home": "7",
+    "Team_Away": "6",
+    "Match": {
+      "Livecoverage": "yes",
+      "Id": "186652",
+      "Code": "sapk01222019186652",
+      "League": "icc",
+      "Number": "2nd ODI",
+      "Type": "ODI",
+      "Date": "1/22/2019",
+      "Time": "13:00",
+      "Offset": "+02:00",
+      "Daynight": "yes"
+    },
+    "Series": {
+      "Id": "2988",
+      "Name": "Pakistan in South Africa, 5 ODI Series, 2019",
+      "Status": "5 ODI series level 1-1",
+      "Tour": "895",
+      "Tour_Name": "Pakistan tour of South Africa, 2018/19"
+    },
+    "Venue": {
+      "Id": "84",
+      "Name": "Kingsmead, Durban"
+    },
+    "Officials": {
+      "Umpires": "Bongani Jele (SA),Paul Reiffel (AUS) and Gregory Brathwaite (WI)",
+      "Referee": "Ranjan Madugalle (SL)"
+    },
+    "Weather": "Clear",
+    "Tosswonby": "7",
+    "Status": "Match Ended",
+    "Status_Id": "114",
+    "Player_Match": "Andile Phehlukwayo",
+    "Result": "South Africa beat Pakistan by 5 wickets",
+    "Winningteam": "7",
+    "Winmargin": "5 wickets",
+    "Equation": "South Africa beat Pakistan by 5 wickets"
+  },
+  "Nuggets": [
+    "South Africa won the toss and elected to field",
+    "Paterson and Shamsi in for SA",
+    "Pretorius and Tahir out for SA",
+    "Talat and Afridi in for PAK",
+    "U Khan and Wasim out for PAK",
+    "ODI debut for Hussain Talat",
+    "Sarfraz and Ali added 90 runs for 9th wicket",
+    "2nd ODI fifty for Hasan Ali",
+    "2nd ODI fifty for Rassie van der Dussen",
+    "Maiden ODI fifty for Andile Phehlukwayo"
+  ],
+  "Innings": [
+    {
+      "Number": "First",
+      "Battingteam": "6",
+      "Total": "203",
+      "Wickets": "10",
+      "Overs": "45.5",
+      "Runrate": "4.42",
+      "Byes": "0",
+      "Legbyes": "2",
+      "Wides": "7",
+      "Noballs": "0",
+      "Penalty": "0",
+      "AllottedOvers": "50",
+      "Batsmen": [
+        {
+          "Batsman": "63084",
+          "Runs": "5",
+          "Balls": "14",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "10",
+          "Strikerate": "35.71",
+          "Dismissal": "caught",
+          "Howout": "c Andile Phehlukwayo b Kagiso Rabada",
+          "Bowler": "63611",
+          "Fielder": "64221"
+        },
+        {
+          "Batsman": "57492",
+          "Runs": "26",
+          "Balls": "44",
+          "Fours": "3",
+          "Sixes": "0",
+          "Dots": "29",
+          "Strikerate": "59.09",
+          "Dismissal": "caught",
+          "Howout": "c David Miller b Duanne Olivier",
+          "Bowler": "57458",
+          "Fielder": "5313"
+        },
+        {
+          "Batsman": "59429",
+          "Runs": "12",
+          "Balls": "15",
+          "Fours": "2",
+          "Sixes": "0",
+          "Dots": "11",
+          "Strikerate": "80",
+          "Dismissal": "caught",
+          "Howout": "c Andile Phehlukwayo b Kagiso Rabada",
+          "Bowler": "63611",
+          "Fielder": "64221"
+        },
+        {
+          "Batsman": "3472",
+          "Runs": "9",
+          "Balls": "11",
+          "Fours": "1",
+          "Sixes": "0",
+          "Dots": "6",
+          "Strikerate": "81.81",
+          "Dismissal": "caught",
+          "Howout": "c Faf du Plessis b Andile Phehlukwayo",
+          "Bowler": "64221",
+          "Fielder": "28891"
+        },
+        {
+          "Batsman": "2734",
+          "Runs": "21",
+          "Balls": "34",
+          "Fours": "1",
+          "Sixes": "0",
+          "Dots": "19",
+          "Strikerate": "61.76",
+          "Dismissal": "caught",
+          "Howout": "c Reeza Hendricks b Andile Phehlukwayo",
+          "Bowler": "64221",
+          "Fielder": "4356"
+        },
+        {
+          "Batsman": "65739",
+          "Runs": "18",
+          "Balls": "33",
+          "Fours": "1",
+          "Sixes": "1",
+          "Dots": "25",
+          "Strikerate": "54.54",
+          "Dismissal": "caught",
+          "Howout": "c Rassie van der Dussen b Tabraiz Shamsi",
+          "Bowler": "48191",
+          "Fielder": "12518"
+        },
+        {
+          "Batsman": "64073",
+          "Runs": "2",
+          "Balls": "14",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "12",
+          "Strikerate": "14.28",
+          "Dismissal": "stumped",
+          "Howout": "st Heinrich Klaasen b Tabraiz Shamsi",
+          "Bowler": "48191",
+          "Fielder": "59736"
+        },
+        {
+          "Batsman": "4038",
+          "Runs": "41",
+          "Balls": "59",
+          "Fours": "2",
+          "Sixes": "0",
+          "Dots": "27",
+          "Strikerate": "69.49",
+          "Dismissal": "bowled",
+          "Howout": "b Andile Phehlukwayo",
+          "Bowler": "64221",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "64321",
+          "Runs": "0",
+          "Balls": "5",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "5",
+          "Strikerate": "0",
+          "Dismissal": "lbw",
+          "Howout": "lbw b Tabraiz Shamsi",
+          "Bowler": "48191",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "64306",
+          "Runs": "59",
+          "Balls": "45",
+          "Fours": "5",
+          "Sixes": "3",
+          "Dots": "20",
+          "Strikerate": "131.11",
+          "Dismissal": "caught",
+          "Howout": "c Faf du Plessis b Andile Phehlukwayo",
+          "Bowler": "64221",
+          "Fielder": "28891"
+        },
+        {
+          "Batsman": "66833",
+          "Runs": "1",
+          "Balls": "1",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "0",
+          "Strikerate": "100",
+          "Dismissal": "not out",
+          "Howout": "not out",
+          "Bowler": "",
+          "Fielder": ""
+        }
+      ],
+      "Partnership_Current": {
+        "Runs": "1",
+        "Balls": "4",
+        "Batsmen": [
+          {
+            "Batsman": "64306",
+            "Runs": "0",
+            "Balls": "3"
+          },
+          {
+            "Batsman": "66833",
+            "Runs": "1",
+            "Balls": "1"
+          }
+        ]
+      },
+      "Bowlers": [
+        {
+          "Bowler": "63611",
+          "Overs": "9",
+          "Maidens": "1",
+          "Runs": "35",
+          "Wickets": "2",
+          "Economyrate": "3.88",
+          "Noballs": "0",
+          "Wides": "2",
+          "Dots": "37"
+        },
+        {
+          "Bowler": "24669",
+          "Overs": "8",
+          "Maidens": "1",
+          "Runs": "37",
+          "Wickets": "0",
+          "Economyrate": "4.62",
+          "Noballs": "0",
+          "Wides": "2",
+          "Dots": "30"
+        },
+        {
+          "Bowler": "57458",
+          "Overs": "9",
+          "Maidens": "0",
+          "Runs": "51",
+          "Wickets": "1",
+          "Economyrate": "5.66",
+          "Noballs": "0",
+          "Wides": "1",
+          "Dots": "22"
+        },
+        {
+          "Bowler": "64221",
+          "Overs": "9.5",
+          "Maidens": "2",
+          "Runs": "22",
+          "Wickets": "4",
+          "Economyrate": "2.23",
+          "Noballs": "0",
+          "Wides": "1",
+          "Dots": "47"
+        },
+        {
+          "Bowler": "48191",
+          "Overs": "10",
+          "Maidens": "0",
+          "Runs": "56",
+          "Wickets": "3",
+          "Economyrate": "5.6",
+          "Noballs": "0",
+          "Wides": "1",
+          "Dots": "28"
+        }
+      ],
+      "FallofWickets": [
+        {
+          "Batsman": "63084",
+          "Score": "15",
+          "Overs": "4.5"
+        },
+        {
+          "Batsman": "59429",
+          "Score": "37",
+          "Overs": "9"
+        },
+        {
+          "Batsman": "3472",
+          "Score": "58",
+          "Overs": "13.5"
+        },
+        {
+          "Batsman": "57492",
+          "Score": "58",
+          "Overs": "14.1"
+        },
+        {
+          "Batsman": "65739",
+          "Score": "85",
+          "Overs": "21.4"
+        },
+        {
+          "Batsman": "64073",
+          "Score": "92",
+          "Overs": "25.3"
+        },
+        {
+          "Batsman": "2734",
+          "Score": "107",
+          "Overs": "30.2"
+        },
+        {
+          "Batsman": "64321",
+          "Score": "112",
+          "Overs": "32"
+        },
+        {
+          "Batsman": "4038",
+          "Score": "202",
+          "Overs": "45.1"
+        },
+        {
+          "Batsman": "64306",
+          "Score": "203",
+          "Overs": "45.5"
+        }
+      ],
+      "PowerPlay": {
+        "PP1": "1-10",
+        "PP2": "11-40"
+      }
+    },
+    {
+      "Number": "Second",
+      "Battingteam": "7",
+      "Total": "207",
+      "Wickets": "5",
+      "Overs": "42.0",
+      "Runrate": "4.92",
+      "Byes": "0",
+      "Legbyes": "2",
+      "Wides": "4",
+      "Noballs": "0",
+      "Penalty": "0",
+      "AllottedOvers": "50",
+      "Target": "204",
+      "Batsmen": [
+        {
+          "Batsman": "4356",
+          "Runs": "5",
+          "Balls": "9",
+          "Fours": "1",
+          "Sixes": "0",
+          "Dots": "7",
+          "Strikerate": "55.55",
+          "Dismissal": "caught",
+          "Howout": "c Sarfraz Ahmed b Shaheen Afridi",
+          "Bowler": "66833",
+          "Fielder": "4038"
+        },
+        {
+          "Batsman": "3667",
+          "Runs": "8",
+          "Balls": "5",
+          "Fours": "2",
+          "Sixes": "0",
+          "Dots": "3",
+          "Strikerate": "160",
+          "Dismissal": "bowled",
+          "Howout": "b Shaheen Afridi",
+          "Bowler": "66833",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "12518",
+          "Runs": "80",
+          "Balls": "123",
+          "Fours": "9",
+          "Sixes": "0",
+          "Dots": "75",
+          "Strikerate": "65.04",
+          "Dismissal": "not out",
+          "Howout": "not out",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "28891",
+          "Runs": "8",
+          "Balls": "8",
+          "Fours": "2",
+          "Sixes": "0",
+          "Dots": "6",
+          "Strikerate": "100",
+          "Dismissal": "caught",
+          "Howout": "c Sarfraz Ahmed b Shaheen Afridi",
+          "Bowler": "66833",
+          "Fielder": "4038"
+        },
+        {
+          "Batsman": "5313",
+          "Runs": "31",
+          "Balls": "26",
+          "Fours": "5",
+          "Sixes": "0",
+          "Dots": "12",
+          "Strikerate": "119.23",
+          "Dismissal": "caught",
+          "Howout": "c Imam-ul-Haq b Shadab Khan",
+          "Bowler": "65739",
+          "Fielder": "63084"
+        },
+        {
+          "Batsman": "59736",
+          "Runs": "0",
+          "Balls": "1",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "1",
+          "Strikerate": "0",
+          "Dismissal": "bowled",
+          "Howout": "b Shadab Khan",
+          "Bowler": "65739",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "64221",
+          "Isonstrike": true,
+          "Runs": "69",
+          "Balls": "80",
+          "Fours": "7",
+          "Sixes": "2",
+          "Dots": "45",
+          "Strikerate": "86.25",
+          "Dismissal": "not out",
+          "Howout": "not out",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "63611",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "24669",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "48191",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "57458",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        }
+      ],
+      "Partnership_Current": {
+        "Runs": "127",
+        "Balls": "165",
+        "Batsmen": [
+          {
+            "Batsman": "64221",
+            "Runs": "69",
+            "Balls": "80"
+          },
+          {
+            "Batsman": "12518",
+            "Runs": "52",
+            "Balls": "85"
+          }
+        ]
+      },
+      "Bowlers": [
+        {
+          "Bowler": "64321",
+          "Overs": "7",
+          "Maidens": "0",
+          "Runs": "32",
+          "Wickets": "0",
+          "Economyrate": "4.57",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "28"
+        },
+        {
+          "Bowler": "66833",
+          "Overs": "9",
+          "Maidens": "0",
+          "Runs": "44",
+          "Wickets": "3",
+          "Economyrate": "4.88",
+          "Noballs": "0",
+          "Wides": "2",
+          "Dots": "33"
+        },
+        {
+          "Bowler": "3472",
+          "Overs": "6",
+          "Maidens": "0",
+          "Runs": "36",
+          "Wickets": "0",
+          "Economyrate": "6",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "17"
+        },
+        {
+          "Bowler": "64306",
+          "Overs": "8",
+          "Maidens": "0",
+          "Runs": "31",
+          "Wickets": "0",
+          "Economyrate": "3.87",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "29"
+        },
+        {
+          "Bowler": "65739",
+          "Isbowlingtandem": true,
+          "Overs": "10",
+          "Maidens": "0",
+          "Runs": "46",
+          "Wickets": "2",
+          "Economyrate": "4.6",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "37"
+        },
+        {
+          "Bowler": "64073",
+          "Isbowlingtandem": true,
+          "Isbowlingnow": true,
+          "ThisOver": [
+            {
+              "T": "",
+              "B": "1"
+            },
+            {
+              "T": "",
+              "B": "1"
+            },
+            {
+              "T": "",
+              "B": "1"
+            },
+            {
+              "T": "wd",
+              "B": "2"
+            },
+            {
+              "T": "lb",
+              "B": "1"
+            },
+            {
+              "T": "",
+              "B": "0"
+            },
+            {
+              "T": "",
+              "B": "4"
+            }
+          ],
+          "Overs": "2",
+          "Maidens": "0",
+          "Runs": "16",
+          "Wickets": "0",
+          "Economyrate": "8",
+          "Noballs": "0",
+          "Wides": "1",
+          "Dots": "5"
+        }
+      ],
+      "FallofWickets": [
+        {
+          "Batsman": "3667",
+          "Score": "12",
+          "Overs": "1.5"
+        },
+        {
+          "Batsman": "4356",
+          "Score": "15",
+          "Overs": "3.2"
+        },
+        {
+          "Batsman": "28891",
+          "Score": "29",
+          "Overs": "5.3"
+        },
+        {
+          "Batsman": "5313",
+          "Score": "80",
+          "Overs": "14.2"
+        },
+        {
+          "Batsman": "59736",
+          "Score": "80",
+          "Overs": "14.3"
+        }
+      ],
+      "PowerPlay": {
+        "PP1": "1-10",
+        "PP2": "11-40"
+      }
+    }
+  ],
+  "Teams": {
+    "6": {
+      "Name_Full": "Pakistan",
+      "Name_Short": "PAK",
+      "Players": {
+        "2734": {
+          "Position": "5",
+          "Name_Full": "Shoaib Malik",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "35.17",
+            "Strikerate": "81.65",
+            "Runs": "7317"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "39.11",
+            "Economyrate": "4.65",
+            "Wickets": "156"
+          }
+        },
+        "3472": {
+          "Position": "4",
+          "Name_Full": "Mohammad Hafeez",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "32.97",
+            "Strikerate": "75.85",
+            "Runs": "6233"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "37.45",
+            "Economyrate": "4.12",
+            "Wickets": "137"
+          }
+        },
+        "4038": {
+          "Position": "6",
+          "Name_Full": "Sarfraz Ahmed",
+          "Iscaptain": true,
+          "Iskeeper": true,
+          "Batting": {
+            "Style": "RHB",
+            "Average": "32.81",
+            "Strikerate": "86.04",
+            "Runs": "1936"
+          },
+          "Bowling": {
+            "Style": "",
+            "Average": "0",
+            "Economyrate": "7.5",
+            "Wickets": "0"
+          }
+        },
+        "57492": {
+          "Position": "2",
+          "Name_Full": "Fakhar Zaman",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "55.25",
+            "Strikerate": "96.64",
+            "Runs": "1326"
+          },
+          "Bowling": {
+            "Style": "SLO",
+            "Average": "88",
+            "Economyrate": "4.75",
+            "Wickets": "1"
+          }
+        },
+        "59429": {
+          "Position": "3",
+          "Name_Full": "Babar Azam",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "50.6",
+            "Strikerate": "84.4",
+            "Runs": "2328"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "63084": {
+          "Position": "1",
+          "Name_Full": "Imam-ul-Haq",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "60.66",
+            "Strikerate": "81.54",
+            "Runs": "910"
+          },
+          "Bowling": {
+            "Style": "LB",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "64073": {
+          "Position": "8",
+          "Name_Full": "Hussain Talat",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "2",
+            "Strikerate": "14.28",
+            "Runs": "2"
+          },
+          "Bowling": {
+            "Style": "/RMF",
+            "Average": "0",
+            "Economyrate": "8",
+            "Wickets": "0"
+          }
+        },
+        "64306": {
+          "Position": "10",
+          "Name_Full": "Hasan Ali",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "13.46",
+            "Strikerate": "104.12",
+            "Runs": "202"
+          },
+          "Bowling": {
+            "Style": "RMF",
+            "Average": "24.06",
+            "Economyrate": "5.25",
+            "Wickets": "76"
+          }
+        },
+        "64321": {
+          "Position": "9",
+          "Name_Full": "Faheem Ashraf",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "11.55",
+            "Strikerate": "74.28",
+            "Runs": "104"
+          },
+          "Bowling": {
+            "Style": "RMF",
+            "Average": "28.05",
+            "Economyrate": "4.48",
+            "Wickets": "18"
+          }
+        },
+        "65739": {
+          "Position": "7",
+          "Name_Full": "Shadab Khan",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "30.55",
+            "Strikerate": "67.07",
+            "Runs": "275"
+          },
+          "Bowling": {
+            "Style": "LB",
+            "Average": "25.28",
+            "Economyrate": "4.62",
+            "Wickets": "45"
+          }
+        },
+        "66833": {
+          "Position": "11",
+          "Name_Full": "Shaheen Afridi",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "15",
+            "Strikerate": "65.21",
+            "Runs": "15"
+          },
+          "Bowling": {
+            "Style": "LM",
+            "Average": "17.06",
+            "Economyrate": "4.88",
+            "Wickets": "16"
+          }
+        }
+      }
+    },
+    "7": {
+      "Name_Full": "South Africa",
+      "Name_Short": "SA",
+      "Players": {
+        "3667": {
+          "Position": "1",
+          "Name_Full": "Hashim Amla",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "50.07",
+            "Strikerate": "89.35",
+            "Runs": "7812"
+          },
+          "Bowling": {
+            "Style": "RM/OB",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "4356": {
+          "Position": "2",
+          "Name_Full": "Reeza Hendricks",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "26.72",
+            "Strikerate": "75.96",
+            "Runs": "294"
+          },
+          "Bowling": {
+            "Style": "RMF",
+            "Average": "13",
+            "Economyrate": "4.33",
+            "Wickets": "1"
+          }
+        },
+        "5313": {
+          "Position": "5",
+          "Name_Full": "David Miller",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "38.72",
+            "Strikerate": "101.87",
+            "Runs": "2827"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "12518": {
+          "Position": "3",
+          "Name_Full": "Rassie van der Dussen",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "173",
+            "Strikerate": "77.23",
+            "Runs": "173"
+          },
+          "Bowling": {
+            "Style": "LB",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "24669": {
+          "Position": "9",
+          "Name_Full": "Dane Paterson",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "-",
+            "Strikerate": "0",
+            "Runs": "0"
+          },
+          "Bowling": {
+            "Style": "RF",
+            "Average": "54.25",
+            "Economyrate": "6.22",
+            "Wickets": "4"
+          }
+        },
+        "28891": {
+          "Position": "4",
+          "Name_Full": "Faf du Plessis",
+          "Iscaptain": true,
+          "Batting": {
+            "Style": "RHB",
+            "Average": "44.77",
+            "Strikerate": "88.59",
+            "Runs": "4701"
+          },
+          "Bowling": {
+            "Style": "LB",
+            "Average": "94.5",
+            "Economyrate": "5.9",
+            "Wickets": "2"
+          }
+        },
+        "48191": {
+          "Position": "10",
+          "Name_Full": "Tabraiz Shamsi",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "0.00",
+            "Strikerate": "0",
+            "Runs": "0"
+          },
+          "Bowling": {
+            "Style": "SLC",
+            "Average": "34",
+            "Economyrate": "5.15",
+            "Wickets": "16"
+          }
+        },
+        "57458": {
+          "Position": "11",
+          "Name_Full": "Duanne Olivier",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "-",
+            "Strikerate": "0",
+            "Runs": "0"
+          },
+          "Bowling": {
+            "Style": "RFM",
+            "Average": "41.33",
+            "Economyrate": "6.52",
+            "Wickets": "3"
+          }
+        },
+        "59736": {
+          "Position": "6",
+          "Name_Full": "Heinrich Klaasen",
+          "Iskeeper": true,
+          "Batting": {
+            "Style": "RHB",
+            "Average": "22.81",
+            "Strikerate": "86.25",
+            "Runs": "251"
+          },
+          "Bowling": {
+            "Style": "",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "63611": {
+          "Position": "8",
+          "Name_Full": "Kagiso Rabada",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "16.50",
+            "Strikerate": "77.34",
+            "Runs": "198"
+          },
+          "Bowling": {
+            "Style": "RF",
+            "Average": "26.46",
+            "Economyrate": "4.99",
+            "Wickets": "95"
+          }
+        },
+        "64221": {
+          "Position": "7",
+          "Name_Full": "Andile Phehlukwayo",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "33.18",
+            "Strikerate": "88.37",
+            "Runs": "365"
+          },
+          "Bowling": {
+            "Style": "RFM",
+            "Average": "28.95",
+            "Economyrate": "5.61",
+            "Wickets": "48"
+          }
+        }
+      }
+    }
+  },
+  "Notes": {
+    "1": [
+      "Power play 1 (1-10): Pakistan 39/2",
+      "Pakistan 50/2 in 12.3 overs",
+      "Drinks: Pakistan 58/4 in 14.1 overs",
+      "Pakistan 100/6 in 27.5 overs",
+      "Drinks: Pakistan 107/7 in 30.2 overs",
+      "Referral 1 (32.6 ovs): F Ashraf against  SA (LBW) Unsuccessful (SA:1, PAK:0)",
+      "Pakistan 112/8 : F Ashraf lbw b Shamsi 0(5)",
+      "Pakistan 150/8 in 37.2 overs",
+      "9th wkt Partnership: 50 off 40 between S Ahmed (12) and H Ali (38)",
+      "Power play 2 (11-40): Pakistan 165/8 (126 runs, 6 wickets)",
+      "H Ali 2nd odi fifty: 50 runs in 38 balls (3x4) (3x6)",
+      "Pakistan 202/8 in 44.5 overs"
+    ],
+    "2": [
+      "South Africa 50/3 in 9.2 overs",
+      "Power play 1 (1-10): South Africa 52/3",
+      "4th wkt Partnership: 50 off 40 between van der Dussen (19) and D Miller (31)",
+      "Drinks: South Africa 80/4 in 14.2 overs",
+      "Referral 1 (18.3 ovs): A Phehlukwayo against PAK (LBW) Successful (SA:1, PAK:1)",
+      "South Africa 102/5 in 21.2 overs",
+      "van der Dussen 2nd ODI fifty: 50 runs in 81 balls (6x4) (0x6)",
+      "6th wkt Partnership: 50 off 72 between van der Dussen (25) and A Phehlukwayo (26)",
+      "South Africa 150/5 in 30.4 overs",
+      "Drinks: South Africa 157/5 in 33.0 overs",
+      "A Phehlukwayo maiden ODI fifty: 50 runs in 54 balls (4x4) (2x6)",
+      "A Phehlukwayo dropped on 50 by S Khan in 35.4 overs",
+      "6th wkt Partnership: 102 off 142 between van der Dussen (46) and A Phehlukwayo (55)",
+      "Power play 2 (11-40): South Africa 194/5 (140 runs, 2 wickets)",
+      "South Africa 200/5 in 41.3 overs"
+    ]
+  }
+}
