@@ -14,7 +14,7 @@ This repository demonstrates of displaying the cricket team data using api call
 5. Bottom Navigation
 6. Fragment Transaction
 7. Call Fragent inside a ParentFragment 
-8. Retrofit
+8. Retrofit Basic
 9. Dynamic Json Response (JsonElement in Retrofit)
 
 #### Concept reference resources:
